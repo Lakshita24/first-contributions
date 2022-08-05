@@ -64,7 +64,7 @@
 - [James Wigg](https://github.com/Shaydas1)
 - [Pratik Bhagat](https://github.com/bhagatpratik07)
 - [Martin Joseph Lubowa](https://github.com/martin-creator)
-- [Lakshita Gupta] (https://github.com/Lakshita24)
+- Lakshita Gupta 
 - [Issac Lopez](https://github.com/Issac-Lopez)
 - [Anmol Panchal](https://github.com/anmolp476)
 - [Raiyan Mukhtar](https://github.com/raiyanmook27)
